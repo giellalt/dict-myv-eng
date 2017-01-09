@@ -1,0 +1,1370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r id="myveng" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+   You are free to copy, distribute and adapt the work, as long as you always give
+   proper attribution using the attribution text below.
+   For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref> <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+   This is NOT a fully styled and published dictionary.
+   As such it can and will contain unfinished entries, unpublished entries, 
+   entries with objectionable translations, etc. If you find any errors 
+   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
+
+
+
+
+
+
+<e> <lg> <l pos="V">-вемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">can</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">-втомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">implement</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">-ма</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">should</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">-нень)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">miss</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">-томс/-темс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">happen</t> </tg> </mg> </e>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<e> <lg> <l pos="V">а вастомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">avoid</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">а вечкемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">hate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">а заботямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">neglect</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">а каямс сельме</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">neglect</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">а кемемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">distrust</t> <t pos="V">doubt</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">а кенеремс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">miss</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">а кунсоломс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">disobey</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">а лишнойгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">restrict</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">а максомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">deprive</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">а меремс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">bar</t> <t pos="V">prohibit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">а меремс (from doing теемадо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">forbid</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">а прамс ве мельс (on something мезень коряскак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">disagree</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">а путомс питне (ломаннень)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">belittle</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">а саемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">reject</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">а саемс лиятнень марто</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">exclude</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">а теемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">abstain</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">а чумондомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">acquit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аванькскавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">contaminate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">авардемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">weep</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">аварькшнемс кинь-бути кисэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">mourn</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аволь видестэ нолдамс тевс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">abuse</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аволь истя нолдамс тевс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">misuse</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аволь истя чарькодемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">misunderstand</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аволямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">wave</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">автоматизировамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">automate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">азаргавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">aggravate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">азоркстамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">rule</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">айгемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">defer</t> <t pos="V">push</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">айгоргалемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">horse around</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">айгшевемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">slide</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">айгшемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">remove</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аламогавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">lessen</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аламолгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">reduce</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аламолгадомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">decrease</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">алга черькстамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">impress</t> <t pos="V">underline</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">алкиньгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">demote</t> <t pos="V">lower</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">алтамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">promise</t> <t pos="V">vow</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">алтамс (someone киненьгак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">wish</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">алтамс (something to someone мезеньгак киненьгак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">dedicate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">алыямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">lay</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">амазылгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">deface</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">анамс (for мезеяк)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">apply</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">андомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">feed</t> <t pos="V">nourish</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">андомс-оршамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">support</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аннулировамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">annul</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">анокс кандомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">sacrifice</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">анокстамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">prepare</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">анокстамс (sport спортс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">train</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">анокстамс ярсамопель</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">cook</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">анолдамс оляс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">confine</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">апак сёрмадо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">unwritten</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">апак ёвта)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">imply</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">апаргавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">annoy</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">апитнейгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">devalue</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аравтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">appoint</t> <t pos="V">charge</t> <t pos="V">place</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аравтомс (киньгак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">assign</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аравтомс аволь эсь таркава</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">displace</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аравтомс вейс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">combine</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аравтомс группава</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">group</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аравтомс карадо каршо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">compare</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аравтомс категориява</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">class</t> <t pos="V">classify</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аравтомс ладс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">stabilize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аравтомс лувс-ладс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">arrange</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аравтомс одс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">rearrange</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аравтомс пусмова</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">group</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аравтомс сортонь коряс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">sort</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аравтомс тевс кундамо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">mobilize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">арась седей неже</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">despair</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ардтнемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">commute</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ардтнемс сокссо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">ski</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">армиясто)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">desert</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">арсемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">aim</t> <t pos="V">assume</t><t pos="V">conceive</t> <t pos="V">consider</t><t pos="V">contemplate</t> <t pos="V">devise</t><t pos="V">intend</t> <t pos="V">presume</t><t pos="V">suppose</t> <t pos="V">think</t> <t pos="V">wish</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">арсемс (карми-а карми)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">speculate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">арсемс мезеяк теемс - а теемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">meditate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">артомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">dye</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">артомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">paint</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">артомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">sketch</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">асодавиксэкс оршамс-наряжамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">disguise</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ацирьгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">agitate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ацирьгавтомс (валонзо арасть)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">frustrate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ашолгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">bleach</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аштемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">cost</t> <t pos="V">wait</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аштемс (а чумочинзэ) кисэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">assert</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аштемс (винадо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">age</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аштемс (мездеяк)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">consist</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аштемс (мезестэяк)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">depend</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аштемс каршо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">resist</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аштемс кеместэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">persist</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аштемс килангсо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">travel</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аштемс кинь ёнояк</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">back</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аштемс кинь-бути кисэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">protect</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аштемс киньгак таркас</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">represent</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аштемс мезень кисэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">defend</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аштемс мезеньгак кисэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">advocate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аштемс чиполасо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">queue</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аштемс эсь вал лангсо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">ratify</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">аштемс эсь мель лангсо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">insist</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">бажамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">attempt</t> <t pos="V">intend</t> <t pos="V">strive</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">беряньстэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">scribble</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">бойкалгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">animate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">бомбамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">bomb</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ботномс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">mumble</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">боявомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">combat</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">бука)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">castrate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">бутордомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">mumble</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ваднемс (with мейсэ)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">smear</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ваднемс ойсэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">lubricate</t> <t pos="V">oil</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вадрялгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">improve</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вадяшамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">caress</t> <t pos="V">pat</t> <t pos="V">pet</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">важодемс вейсэнь тевсэ (with someone ки мартояк)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">collaborate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вайкстнемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">groan</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вал пандомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">respond</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">валакавтомс (цитнезэ)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">polish</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">валгомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">alight</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">валгстомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">demote</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">валдомтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">illuminate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">валномс (plants тикше)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">water</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">валномс (пакся)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">irrigate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">валовомс крайга</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">overflow</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">валомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="TV">turn over</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">валомс (апак учо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">spill</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ванкшномс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">research</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ваннозь питне путомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">assess</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ванномс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">examine</t> <t pos="V">inspect</t> <t pos="V">verify</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ванномс (берянь тев)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">investigate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ванномс одс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">reconsider</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ваномс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">beware</t> <t pos="V">observe</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ваномс (кинь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">monitor</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ваномс (кинь мельга)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">supervise</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ваномс мель</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">cater</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ваномс тетькень сельмть</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">stare</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ванстома</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">maintain</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ванстомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">guard</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">ванстомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="TV">preserve</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ванстомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">reserve</t> <t pos="V">save</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ванстомс (кинь мельга)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">spy</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ванстомс (пильге кива)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">track</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ванськавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">clear</t> <t pos="V">refine</t> <t pos="V">tidy</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ванськавтомс щёткасо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">brush</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ванькскавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">clean</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вармамевть)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">hoist</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">варчамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">attempt</t> <t pos="V">tempt</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">варштамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">glance</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">варштамс (at лангс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">look</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вастовомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">meet</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вастомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">encounter</t> <t pos="V">meet</t> <t pos="V">welcome</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">васькавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">pamper</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ваткамс (лукшт)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">peel</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вачкамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">stack</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вачкамс кандст путомс сталмот</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">burden</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вачкамс улавс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">load</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вачкодемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">beat</t> <t pos="V">hit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вачкодемс (молоткасо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">pound</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вачкодемс (пилеюрга)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">slap</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вачомомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">starve</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">ваявтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">drown</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ваявтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">immerse</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">ваявтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V" val="">sink</t> <t pos="V" val="">submerge</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ваямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">sink</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ваямс (куломс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">drown</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ве мельс прамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">determine</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ве шкане лисемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">coincide</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ве шкане теевемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">coincide</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ве шкастонть эрсемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">accompany</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ведиявтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">dilute</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вейке таркасто омбоцес кандомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">transfer</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вейке-вейке лангс эртевемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">collide</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вейке-вейке ёнов молемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">correspond</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вейкетстямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">integrate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вейкетькстамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">standardize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вейкетямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">balance</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вейсэндямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">combine</t> <t pos="V">consolidate</t><t pos="V">unify</t> <t pos="V">unite</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вейсэньдямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">reunite</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">вельмевтемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">revive</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вельмемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">arise</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вельмемс (арсема)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">conceive</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вельтямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">cover</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вельтямс (асфальтсо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">pave</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">велявтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">recede</t> <t pos="V">reverse</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">велявтомс (ярмак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">reimburse</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">велявтомс кинень-бути</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">rejoin</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">велявтомс мекев</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">revert</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">велямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">rotate</t> <t pos="V">turn</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">верев-алов ёматомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">vanish</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">верьгедемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">ignite</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">весиямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">finish</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ветнемс (турист)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">guide</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ветямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">direct</t> <t pos="V">lead</t><t pos="V">pull</t> <t pos="V">rule</t><t pos="V">steer</t> <t pos="V">supervise</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ветямс (мастор)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">govern</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ветямс (машина)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">drive</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ветямс (мельганзо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">tow</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ветямс (тев)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">manage</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ветямс (тевсэ)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">administer</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ветямс порядка</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">regulate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ветямс пря</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">behave</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вецакавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">dilute</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вечкевемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">like</t> <t pos="V">please</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вечкемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">adore</t> <t pos="V">love</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вечкенемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">caress</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вешемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">apply</t> <t pos="V">demand</t> <t pos="V">require</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вешемс пря (to козоньгак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">apply</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вешемс чумонь нолдамодо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">apologize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вешкамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">whistle</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вешнемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">search for</t> <t pos="V">seek</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">видемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">plant</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">видькстамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">acknowledge</t> <t pos="V">concede</t><t pos="V">confess</t> <t pos="V">declare</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">видьстэ сюлмавомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">interact</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">виевгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">amplify</t> <t pos="V">intensify</t> <t pos="V">strengthen</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">визделгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">embarrass</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">витемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">adjust</t> <t pos="V">align</t> <t pos="V">rectify</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">витемс мель</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">amuse</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">витнемс (закон)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">amend</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">витнемс (од тевс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">adapt</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">витнемс-петнемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">fix</t> <t pos="V">repair</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">вравтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">beat</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">габзорямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">scrub</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">габордамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">grab</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">гайневтемс (bell баягине)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">ring</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">гербовамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">recruit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">гипнотизировамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">hypnotize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">гладямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">iron</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">гравировамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">engrave</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">грузавиксэ)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">ship</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">грузямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">load</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">дивавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">amaze</t> <t pos="V">astound</t> <t pos="V">surprise</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">дивамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">wonder</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">доказамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">prove</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">заводямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="TV">rewind</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">заказовамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">order</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">занямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">occupy</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">зыяндо пелемачи</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">endanger</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">зыянсо а куломс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">survive</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">идемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">defend</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">идемс (from костояк)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">rescue</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">изнявомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">defeat</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV">изнявомс (in chess шахматсо, to someone киненьгак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">lose</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">изнямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">achieve</t> <t pos="V">conquer</t><t pos="V">prevail</t> <t pos="V">win</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">изолировамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">insulate</t> <t pos="V">isolate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">икеле аштемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">precede</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">икельга молемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">precede</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ильтемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">accompany</t> <t pos="V">escort</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">импортировамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">import</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">импровизировамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">improvise</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">инелгавтнема</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">glorify</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">инспектировамс (счёт)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">audit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">интегрировамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">integrate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ирнемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">growl</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">исправамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">rectify</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">ичемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">knead</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кавтолдовтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">confuse</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кавтолдомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">doubt</t> <t pos="V">hesitate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кадовомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">remain</t> <t pos="V">stay</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кадомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">abandon</t> <t pos="V">leave</t> <t pos="V">quit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кадомс апак пандо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">default</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кадомс масторонть</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">emigrate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">каземс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">bestow</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">казнемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">donate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">казнемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">present</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">казнемс (апелема тевень кисэ)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">reward</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">казнемс (вейсэнь тевс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">contribute</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">казнемс ловмосо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">award</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">кайсевтемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">undress</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кайсемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">undress</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">калавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">annihilate</t> <t pos="V">destroy</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">калавтомс пельксэнь-пелькс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">dismantle</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">калгодкстомомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">harden</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">калмамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">bury</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">калякардомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">chat</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">канднемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">transport</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">канднемс (оршамопель)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">wear</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кандовомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">belong</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кандомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">bear</t> <t pos="V">bring</t><t pos="V">carry</t> <t pos="V">convey</t> <t pos="V">take</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кандомс берянь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">undermine</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кандомс зыян</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">harm</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">капитулировамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">capitulate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">капшамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">hurry</t> <t pos="V">rush</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кардамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">avert</t> <t pos="V">ban</t><t pos="V">forbid</t> <t pos="V">hinder</t><t pos="V">prevent</t> <t pos="V">prohibit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кармавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">charter</t> <t pos="V">command</t><t pos="V">demand</t> <t pos="V">order</t> <t pos="V">urge</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кармавтомс путома мель</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">motivate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кармавтомс тееме кода мелеть</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">manipulate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кармамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">commence</t> <t pos="V">shall</t> <t pos="V">start</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кармамс кунсоломо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">submit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">касомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">augment</t> <t pos="V">expand</t><t pos="V">gain</t> <t pos="V">grow</t><t pos="V">increase</t> <t pos="V">thrive</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">касомс (профессиясо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">advance</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">касомс-кепедемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">develop</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">кастома-кепедема</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">develop</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">кастомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V" val="">advance</t> <t pos="V" val="">augment</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кастомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">expand</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">кастомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">grow</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кастомс (процент)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">accrue</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">качадомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">smell</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">качакавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">smoke</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">качаямс насозсо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">pump</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">каштомсо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">roast</t> <t pos="V">roast</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">каявомс (someone ки лангскак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">assault</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">каявомс (someone кинь лангскак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">attack</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">каявомс (мастор лангс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">invade</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">каявомс салава таркасто</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">ambush</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">каямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">slap</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">каямс вайгель</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">vote</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">каямс каршо вал</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">object</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">каямс сулей</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">reflect</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">каямс ярмак (почтасо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">remit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кеверемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">roll</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кевкстемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">ask</t> <t pos="V">inquire</t> <t pos="V">question</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кевкстемс-киведемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">quiz</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кевкстемс-мучкамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">interrogate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кевкстнемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">query</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кедькоморсо кирдемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">clutch</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кежть савтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">provoke</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кекшемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">conceal</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">кекшемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">hide</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">келейгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">broaden</t> <t pos="V">extend</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">келемемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">escalate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кельмевтемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">cool</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">кельмевтемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">freeze</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">кельмевтемс (седей)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="TV">turn off</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кельмемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">freeze</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кемевтемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">assure</t> <t pos="V">convince</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кемекстамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">affirm</t> <t pos="V">confirm</t> <t pos="V">ensure</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">кемелгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="TV">reinforce</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кемелгавтомс вийть</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">recuperate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кемемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">believe</t> <t pos="V">trust</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кемемс (киненьгак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">confide</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кепедевемс (тюреме)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">revolt</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кепедемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">boost</t> <t pos="V">heighten</t> <t pos="V">lift</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кепедемс (флаг</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">hoist</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кепетемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">rise</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кепетемс бороцямо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">riot</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">керсемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">slice</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">керямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">chop</t> <t pos="V">cut</t><t pos="V">disconnect</t> <t pos="V">sever</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">керямс (рунгосто)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">amputate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">керямс кавтов</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">halve</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">керямс киськепе</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">circumcise</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">керямс чачк</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">halve</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кециявтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">excite</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кецямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">rejoice</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кешнамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">sneeze</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">киневтемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">itch</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кинень)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">call</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">киньгак лангс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">compromise</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">киракстамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">slide</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кирваземс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">escalate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кирвазтемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">arouse</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">кирвазтемс (light тол)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="TV">turn on</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">кирвазтемс (somebody киньгак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="TV">turn on</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кирдевемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">restrain</t> <t pos="V">retain</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кирдема</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">detain</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кирдемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">bear</t> <t pos="V">confine</t><t pos="V">endure</t> <t pos="V">keep</t> <t pos="V">withstand</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кирдемс (кедьсэ)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">hold</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кирдемс (нарьгамо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">tolerate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кирдемс кедьало</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">control</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кирдемс киркссэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">surround</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кирдемс пост</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">fast</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кирксамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">rake</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">киртямс (вал)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">abbreviate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кирьвазтемс (бомба)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">detonate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кирьмицямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">compress</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кирякстомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">slip</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">киштемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">dance</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">клейсэ педявтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">glue</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">клеямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">glue</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ковгак а нолдамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">ground</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кодамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">braid</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">кодамс (спицасо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">knit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">кодамс (станкасо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">weave</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кодсто чарькодевиксэкс теемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">decode</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">козомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">cough</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кокномс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">stutter</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">колавомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">shatter</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">колавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">shatter</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">коламс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">destroy</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">коламс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">shatter</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">коламс (закон)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">violate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">коламс (лапужакс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">smash</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">коламс лув</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">infringe</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">коламс мельспаро (someone киньгак мельспаронзо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">disappoint</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кольневтемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">pamper</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">комавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="TV">turn over</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">компенсировамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">compensate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">комсемс прясо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">nod</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">консультировамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">consult</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">конфисковамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">confiscate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кончтамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">blink</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кончтнемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">blink</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">конштамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">wink</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">конямс (сельмть)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">shut</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">координировамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">coordinate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">корномс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">snore</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кортавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">coerce</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кортамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">speak</t> <t pos="V">talk</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кортамс (кинь-бути)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">persuade</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кортамс эсь каршо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">contradict</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кортамс-теемс (кевкстемадонть эрьва ёндо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">confer</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кортнемс (something мездеяк)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">discuss</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">корштамс (турвапесэ)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">sip</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">костямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">dry</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">коськемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">dry</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">коцькарямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">scrape</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">коцькердямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">scratch</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кочкамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">choose</t> <t pos="V">designate</t><t pos="V">elect</t> <t pos="V">guess</t> <t pos="V">select</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">красямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">paint</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">криндявтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">leap</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кружамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">surround</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кувалгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">lengthen</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кувалгавтомс (шкань коряс) promenade n. якамо-пакамо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">prolong</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">куземс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">ascend</t> <t pos="V">climb</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">куземс (ship, aircraft иневенчс, менельвенчс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">board</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кузтемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">boost</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">куловтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">assassinate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">куловтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">kill</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">куловтомс (таракант-мезть)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">exterminate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">куломс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">die</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">куломс вачодо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">starve</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кундамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">apprehend</t> <t pos="V">catch</t> <t pos="V">grip</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кундамс (милиция)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">arrest</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кундамс идем ракша</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">hunt</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кундамс тевс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">undertake</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кундсемс кал</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">fish</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кунсоломс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">comply</t> <t pos="V">obey</t><t pos="V">react</t> <t pos="V">respond</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кунсоломс (to )</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">listen</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кунсоломс лекция серия</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">audit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">курго автнемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">yawn</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">куродомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">circle</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кутмордамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">embrace</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кутморямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">hug</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кутстямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">tickle</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кучкордомс (пильгсэ)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">kick</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кучомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">send</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кшувавтомс (квартерасто)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">evict</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">кырсэ ванькскавтомс кирьгапаренть</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">gargle</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ладсемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">arrange</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ладсемс музыка</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">compose</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ладямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">adapt</t> <t pos="V">adjust</t><t pos="V">compile</t> <t pos="V">devise</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ладямс пелькстамо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">arbitrate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лажамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">weep</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лазномс (узерьсэ)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">chop</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лазовомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">split</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">лазомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">split</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лазомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">stab</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лакамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">boil</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лаксемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">carve</t> <t pos="V">whittle</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ламолгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">multiply</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ламшовгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">weaken</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ландямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">crouch</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лапужкавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">flatten</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ледемс (ружиясо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">shoot</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ледемс мельс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">remember</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ледстямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">mention</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ледстямс мельс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">remember</t> <t pos="V">remind</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ледстямс превс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">inspire</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лездамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">aid</t> <t pos="V">assist</t><t pos="V">enable</t> <t pos="V">stock</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лездамс (киненьгак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">help</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лездамс ярмаксо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">subsidize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лезксэнь максома</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">grant</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лексемс кирьгапарьга вешкезь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">wheeze</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лемдемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">baptize</t> <t pos="V">name</t> <t pos="V">nominate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лепиявтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">asphyxiate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">лепиявтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V" val="">smother</t> <t pos="V" val="">suffocate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лепиямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">smother</t> <t pos="V">suffocate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лепштнемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">harass</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лепштямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">persecute</t> <t pos="V">repress</t><t pos="V">squeeze</t> <t pos="V">suppress</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лепштямс кинь-бути</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">oppress</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">летемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">happen</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ливезькадомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">condense</t> <t pos="V">perspire</t> <t pos="V">sweat</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ливтемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">hatch</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ливтемс лангс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">disclose</t> <t pos="V">expose</t> <t pos="V">reveal</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ливтнемс (кудосто)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">commute</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ливтямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">fly</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ливтямс (ёроплансо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">navigate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лисемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">emerge</t> <t pos="V">exit</t> <t pos="V">happen</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лисемс (тев)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">occur</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лисемс (чи)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">rise</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лисемс мирденень (of a woman)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">marry</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лисемс пенсияв</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">retire</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лисемс чинстэнь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">dawn</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лияв ветямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">divert</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV">лиядомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="IV">remain</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лиякстовтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">modify</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лиякстомомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">vary</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лиякстомтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">alter</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">лиякстомтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">change</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ловномс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">read</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ловномс диктант</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">dictate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лововомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">count</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ловомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">calculate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">ловомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">count</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ловомс (лиянь коряс) вадрякс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">favor</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ловомс авадрякс / аёнкс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">disapprove</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ловомс чумокс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">convict</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ловомс чумондовикс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">suspect</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ловомс ёнкс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">accept</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ломаньсэ)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">brainwash</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лондадомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">collapse</t> <t pos="V">tumble</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лопадемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">soak</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лоткавтмс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">disband</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лоткавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">block</t> <t pos="V">brake</t> <t pos="V">cancel</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">лоткавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">stop</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">лоткавтомс (radio, television, oven радио, телевизор, духовка)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="TV">turn off</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лоткавтомс (машина)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">park</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лоткамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">cease</t> <t pos="V">discontinue</t> <t pos="V">stop</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лотксемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">pause</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">лоштаемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">whip</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">лувс ладсемс (седямопель)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="TV">tune</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV">мадемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="IV">recline</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">мадстямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">lay</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">мазылгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">adorn</t> <t pos="V">decorate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">майсевтемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">afflict</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">максомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">allot</t> <t pos="V">allow</t><t pos="V">assign</t> <t pos="V">bestow</t><t pos="V">give</t> <t pos="V">let</t><t pos="V">portray</t> <t pos="V">provide</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">максомс (радио</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">broadcast</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">максомс арендас</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">rent</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">максомс вал</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">promise</t> <t pos="V">vow</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">максомс велявтомга</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">lend</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">максомс гарантия</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">guarantee</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">максомс каршовал</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">answer</t> <t pos="V">reply</t> <t pos="V">respond</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">максомс критика</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">criticize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">максомс леднемапель</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">arm</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">максомс паёк</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">ration</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">максомс питне</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">appreciate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">максомс показаният</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">testify</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">максомс полномочия</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">authorize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">максомс превс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">recommend</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">максомс превть</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">advise</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">максомс пря</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">capitulate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">максомс пря (to кинень)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">surrender</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">максомс прянь ванстома тарка</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">shelter</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">максомс сигнал (берянь тевде)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">alert</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">максомс содамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">identify</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">максомс судс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">litigate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">максомс тарка</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">accommodate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">максомс чарькодемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">insinuate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">максомс честь (киненьгак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">salute</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">максомс чумонь нолдавтыця тувтал</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">justify</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">максомс эрямс тарка</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">accommodate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">малавгадомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">approach</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">манипулировамс (арсемасо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">brainwash</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">манчемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">lie</t> <t pos="V">pretend</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">манямс (кемезэ аволь истя)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">deceive</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">манямс (ломань тевсэ)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">cheat</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">манямс (тейтерьава)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">seduce</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">манямс (эстензэ)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">attract</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">манямс (ярмак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">defraud</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">маршировамс (ютамс стройсэ)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">march</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">марявомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">seem</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">марямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">detect</t> <t pos="V">feel</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">марямс (пилева)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">hear</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">марямс чине</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">smell</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">мастор)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">betray</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">маштомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">kill</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">маштомс (политик)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">assassinate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">мейсэ чумондыть)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">confront</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">мекев</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">readjust</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">мел(ет)ь + улемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">desire</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">мел(ет)ь молемс (мезень) кис</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">desire</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">мель витемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">entertain</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">мельс а туемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">resent</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">мельс ледстязь налксемс/сэдямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">rehearse</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">мельс туемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">allure</t> <t pos="V">like</t> <t pos="V">please</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">мельспаросо ваномс (кие лангскак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">admire</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">мельсэ-превсэ неемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">imagine</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">мелявтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">worry</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">мендямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">bend</t> <t pos="V">fold</t> <t pos="V">twist</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">менель венчс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">embark</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">менельвенч)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">charter</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">менстямс орма</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">cure</t> <t pos="V">heal</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">меремс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">allow</t> <t pos="V">consent</t><t pos="V">may</t> <t pos="V">state</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">меремс (-меде)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">incite</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">меремс (мезде)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">offer</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">меремс (мездеяк)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">propose</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">меремс (теемеде)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">encourage</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">меремс (теемс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">condone</t> <t pos="V">permit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">меремс аштемеде</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">discourage</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">меремс сюкпря (киненьгак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">thank</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">мермс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">let</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">мешамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">bother</t> <t pos="V">disturb</t> <t pos="V">hinder</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">миемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">sell</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">миемс (ятонтень ломань</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">betray</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">мизолдомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">smile</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">микшнемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">sell</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">микшнемс-рамсемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">trade</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">миледемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">paddle</t> <t pos="V">row</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">мода)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">lease</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">молемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">fit</t> <t pos="V">function</t> <t pos="V">omit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">молемс (киньгак) мельга</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">follow</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV">молемс (лия таркав)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">adjourn</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">молемс (ялго)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">walk</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV">молемс икелев</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="IV">proceed</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">молемс каршо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">deny</t> <t pos="V">oppose</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">молемс каршо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">protest</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">молемс каршо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">resist</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">молемс кие мельгаяк</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">succeed</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">молемс киньгак ёнов</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">resemble</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">мольстямс мель</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">bore</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">морамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">sing</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">муемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">discover</t> <t pos="V">find</t> <t pos="V">locate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">мурдамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">return</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">муцямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">martyr</t> <t pos="V">torment</t> <t pos="V">torture</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">мучкамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">search</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">навозыявтомс (field пакся)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">fertilize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">навомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">dunk</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">навтамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">dip</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">навтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">immerse</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">назёмиявтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">fertilize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">наказамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">punish</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">наксадомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">decay</t> <t pos="V">rot</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">налксемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">perform</t> <t pos="V">play</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">налксемс хазардсо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">gamble</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нарамс (реве)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">shear</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нарамс (сакалт-мезть)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">shave</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нардамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">eliminate</t> <t pos="V">erase</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нарднемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">wipe</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нарьгамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">abuse</t> <t pos="V">persecute</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нарьгамс (ки лангсояк)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">tease</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">наряжамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">decorate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">национализировамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">nationalize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">невтемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">designate</t> <t pos="V">display</t><t pos="V">exhibit</t> <t pos="V">express</t><t pos="V">indicate</t> <t pos="V">show</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">невтемс (кинень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">confront</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">невтемс (кода)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">demonstrate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">невтемс (мезеяк) авидекс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">disprove</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">невтемс алкуксонь - арась</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">authenticate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">невтемс валсо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">describe</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">невтемс видекс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">certify</t> <t pos="V">prove</t> <t pos="V">verify</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">невтемс мель</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">demonstrate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">невтемс паро мель (цяпамосо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">cheer</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">невтнемс сурсо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">point</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">недямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">clamp</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">неемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">see</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нежедемс (against мезентень)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">lean</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нежедемс (on лангс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">rely</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нельгемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">seize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">неявомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">appear</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нильнемс кошт</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">gasp</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нолажтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">slip</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нолдавтомс чумо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">repent</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нолдамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">broadcast</t> <t pos="V">omit</t> <t pos="V">produce</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">нолдамс (radio, television, oven радио, телевизор, духовка)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="TV">turn on</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нолдамс (армиясто)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">discharge</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нолдамс (ведь)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">leak</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нолдамс (газета)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">print</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нолдамс (молеме)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">excuse</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нолдамс (молемс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">dismiss</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нолдамс (товар)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">manufacture</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нолдамс берянь куля</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">compromise</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нолдамс ведь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">drain</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нолдамс тевс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">use</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нолдамс тевс одов</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">recycle</t> <t pos="V">reuse</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нолдамс чине</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">smell</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нолдамс чумо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">excuse</t> <t pos="V">forgive</t> <t pos="V">pardon</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нолднемс чине</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">stink</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нолсемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">lick</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">норовамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">aim</t> <t pos="V">intend</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ноцк-ноцк тейнемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">throb</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ноцкаетемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">throb</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">нуемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">mow</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нурсемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">swing</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">нурямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">wiggle</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">обидямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">insult</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">одкстомтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">modernize</t> <t pos="V">renew</t> <t pos="V">restore</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">одов аравтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">reschedule</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">одов аравтомс лувс-ладс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">reorganize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">одов снимардомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">retake</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">одолгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">modify</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">одс невтемс пря</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">reappear</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">озавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">plant</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">озавтомс (ломанть) эрямо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">colonize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">озадо аштемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">sit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">озамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">sit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">озамс (коцт муськемстэ)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">shrink</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">озамс (нармонде)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">alight</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">озновтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">bless</t> <t pos="V">sanctify</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">озномс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">pray</t> <t pos="V">worship</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">оймавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">appease</t> <t pos="V">calm</t><t pos="V">reassure</t> <t pos="V">sedate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">оймсемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">relax</t> <t pos="V">rest</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">оласкадомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">fade</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">олякстомтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">liberate</t> <t pos="V">loosen</t> <t pos="V">vacate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">олялгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">loosen</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">омбондомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">repeat</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">онгомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">bark</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">онкстамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">consider</t> <t pos="V">contemplate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">онкстамс (сталмо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">weigh</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">онсто неемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">dream</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">оргодемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">escape</t> <t pos="V">flee</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">оргодемс (тевстэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">desert</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">орголемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">elude</t> <t pos="V">evade</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">оршамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">clothe</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">оршамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">dress</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">отказамс (мездеяк)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">refuse</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">охотничамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">hunt</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пазонь таркас путомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">idolize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">паламс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">kiss</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">паломс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">glow</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">палсемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">kiss</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пандовтомс штраф</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">fine</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пандолдомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">glisten</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пандомга максомс ярмак</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">loan</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пандомга саемс ярмак</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">loan</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пандомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">reciprocate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пандомс (оршамопель)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">patch</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пандомс (ярмак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">pay</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пандомс кеж</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">avenge</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пандомс мекев</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">refund</t> <t pos="V">repay</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">панемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">bake</t> <t pos="V">banish</t><t pos="V">dismiss</t> <t pos="V">evict</t><t pos="V">pursue</t> <t pos="V">repel</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">панемс (beer брага, пия)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">brew</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">панемс (someone ки мельгаяк)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">chase</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">панемс (венч)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">paddle</t> <t pos="V">row</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">панемс (стада)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">drive</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">панемс (школасто)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">expel</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">панемс аваньксчитнень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">sterilize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">панжомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">discover</t> <t pos="V">open</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">панжомс (винт)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">unscrew</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">панжомс од ёнкст-таркат</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">explore</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">паро мельсэ (+ теемавал)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">enjoy</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">паролгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">improve</t> <t pos="V">perfect</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пачк пелемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">stab</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пачкодемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">arrive</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пачтемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">deliver</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пачтямс (куля)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">communicate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пачтямс мезде-бути содамга</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">acknowledge</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">педявтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">affix</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">педямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">filter</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">педямс (ормадо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">infect</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пежетькстамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">pledge</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пейдемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">grin</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пек талакавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">appal</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пекстамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">close</t> <t pos="V">shut</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">пекстамс панжомас</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="TV">lock</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пекстамс печатьс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">seal</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пекстамс тюрьмас</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">imprison</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пелемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">apprehend</t> <t pos="V">beware</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пелемс (ear, hole пиле, варя)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">pierce</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">пелемс (буравсо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">drill</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пелькстамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">argue</t> <t pos="V">compete</t><t pos="V">contest</t> <t pos="V">debate</t><t pos="V">deny</t> <t pos="V">dispute</t> <t pos="V">quarrel</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пелькстамс чиемасо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">race</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пеняцямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">complain</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пес панемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">coerce</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">петнямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">drip</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">печатамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">type</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">печкемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">slice</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">печкемс (ки)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">intersect</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">печкемс (ракша)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">butcher</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пештемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">fill</t> <t pos="V">inflate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пештемс (тыц)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">stuff</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пештемс одс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">refill</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">пидемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">cook</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пидемс (coffee, tea кофе, чай)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">brew</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">пидемс (сывель толсо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">roast</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пидемс-панемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">cook</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пидемс-панемс грильсэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">grill</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пидсемс лаки ведьсэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">scald</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пиемс (сывель толсо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">roast</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пижнемс авардезь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">whine</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пизямомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">fidget</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пилямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">saw</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пирявтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">limit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пирямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">obstruct</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">питне максомс (аукционсо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">bid</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">питневгадомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">advance</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">питнезэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">cost</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пичкавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">cure</t> <t pos="V">heal</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пичкавтомс (айгор</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">castrate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пиштемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">suffer</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">планировамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">plan</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пластинкас)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">record</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV">повавомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">choke</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">повамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">choke</t> <t pos="V">hang</t> <t pos="V">strangle</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">поводемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">hang</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">поволемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">cling</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">покордамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">insult</t> <t pos="V">libel</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">покшолгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">amplify</t> <t pos="V">enlarge</t><t pos="V">exaggerate</t> <t pos="V">expand</t> <t pos="V">magnify</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">покшолгадомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">expand</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">покшсто невтемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">exaggerate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">полавтневемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">alternate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">полавтнемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">fluctuate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">полавтовомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">vary</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">полавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">convert</t> <t pos="V">exchange</t> <t pos="V">substitute</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">полавтомс (лиясо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">replace</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">полавтомс ярмак лангс (чек)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">cash</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">поладомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">add</t> <t pos="V">continue</t> <t pos="V">extend</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">поладомс (лоткавтозь тев)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">resume</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">получамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">obtain</t> <t pos="V">receive</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">полыямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">marry</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">понгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">hang</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">поремс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">bite</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">поремс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">chew</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">порксамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">smash</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">порксевемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">shatter</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">порксемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">shatter</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">потамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">concede</t> <t pos="V">reverse</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">потамс (from -сто/-стэ)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">retreat</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">потомдамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">plug</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">потявтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">milk</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">потямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">suck</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">почодомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">scatter</t> <t pos="V">sprinkle</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV">появамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="IV">turn up</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">правтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">drop</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">практиковамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">practice</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">прамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">drop</t> <t pos="V">fail</t><t pos="V">fall</t> <t pos="V">overturn</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">прамс ве мельс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">conclude</t> <t pos="V">decide</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">прамс ве мельс (лия марто)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">align</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">превс ледемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">crave</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">приговорямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">sentence</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">примамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">take</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">прядовомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">finish</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">прядомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">finish</t> <t pos="V">terminate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">прядомс (промкс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">adjourn</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">прядомс школа</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">graduate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">прянзо лангс велявтомс (венч)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">capsize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">псилгадомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">perspire</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">пстидемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">kick</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пстиемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">kick</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">публиковамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">publish</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пувамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">blow</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пувордамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">twist</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пужомс (цеця)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">wilt</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пултамс (улов)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">cremate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пульзямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">kneel</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV">пупордемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="IV">stumble</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пупордомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">tumble</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пургондамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">bud</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пургсемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">splash</t> <t pos="V">spray</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пургсемс (толпандо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">erupt</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пурнавомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">accumulate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">пурнамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">accumulate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пурнамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">collect</t> <t pos="V">compile</t> <t pos="V">gather</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пурнамс (кши</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">beg</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пурнамс граблясо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">rake</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пурнамс куншка курос</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">centralize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пурнамс эстензэ (рамамс, саемс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">acquire</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пуромомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">assemble</t> <t pos="V">convene</t> <t pos="V">meet</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пуромтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">assemble</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">путомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">erect</t> <t pos="V">install</t><t pos="V">nominate</t> <t pos="V">place</t><t pos="V">plant</t> <t pos="V">put</t> <t pos="V">set</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">путомс (потс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">enclose</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">путомс (сприцсэ)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">inject</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">путомс (фирма козоньгак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">locate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">путомс (ярмак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">invest</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">путомс атарказо(нзо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">misplace</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">путомс ве ёнов</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">postpone</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">путомс вейс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">add</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">путомс вий</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">strive</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">путомс инициал</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">initial</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">путомс кедь(тешкс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">sign</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">путомс ливкс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">vaccinate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">путомс лишной груз</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">overload</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">путомс лув</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">establish</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">путомс мекев (тарказонзо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">restore</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">путомс ойме</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">devote</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">путомс пе</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">abolish</t> <t pos="V">destroy</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">путомс пе (вейсэндавксонтень)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">disband</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">путомс питне</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">appraise</t> <t pos="V">estimate</t> <t pos="V">value</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">путомс питнейчи</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">evaluate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">путомс покш мель</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">persist</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">путомс превс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">advise</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">путомс тарадке лия чувтос</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">graft</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">путомс юр</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">establish</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">путомс ярмак (мезе лангс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">bet</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">путомс-кепедемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">build</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пшкадемс (киненьгак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">address</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">пшкадемс мезень кисэяк</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">attest</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">раздемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">scratch</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ракамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">laugh</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">рамамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">buy</t> <t pos="V">purchase</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">рамамс (милиция, судия)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">bribe</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">рангомс верьгавайгельть</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">scream</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">рангстамс (ярсамодо мельга)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">belch</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ранямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">wound</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">рационализировамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">rationalize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">раштамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">breed</t> <t pos="V">generate</t> <t pos="V">reproduce</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ремонтировамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">renovate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">рестамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">fry</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">решамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">determine</t> <t pos="V">resolve</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">решамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="TV">solve</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ризнемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">grieve</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ризнэмс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">worry</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">рисовамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">draw</t> <t pos="V">portray</t> <t pos="V">sketch</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">роботамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">function</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">рокномс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">grunt</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">рудазкавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">pollute</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">савтомс (киненьгак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">satisfy</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">савтомс кеж</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">antagonize</t> <t pos="V">infuriate</t><t pos="V">insult</t> <t pos="V">irritate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">get</t> <t pos="V">lessen</t><t pos="V">obtain</t> <t pos="V">occupy</t><t pos="V">receive</t> <t pos="V">subtract</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саемс (country мастор)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">occupy</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саемс (from косто)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">deduct</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саемс (полонс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">capture</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саемс арендас</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">rent</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саемс важодеме</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">employ</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саемс велявтомга</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">borrow</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саемс вийсэ (тейтерь)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">rape</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саемс изнявкс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">profit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саемс кедьалов</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">subject</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саемс кирксс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">surround</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саемс кирьксс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">encircle</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саемс кирьксс (ош войнасо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">besiege</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саемс леднемапельть</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">disarm</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саемс лезэ (from косто)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">benefit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саемс лиядо икеле</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">prefer</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саемс мекев</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">recapture</t> <t pos="V">regain</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саемс мекев (валтнэнь)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">retract</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саемс мекев (закон)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">repeal</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саемс мель</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">decide</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саемс мерема (патент)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">patent</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саемс перька</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">besiege</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саемс покш мель</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">lust</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саемс превс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">comprehend</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саемс улипаро</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">confiscate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саемс эсь юткс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">accept</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сакшномс инжекс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">visit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саламс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">steal</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саламс (bank банксто ярмак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">rob</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саламс (ломань ковгак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">abduct</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саламс (ломань)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">kidnap</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саламс (фирмасо важодиця)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">embezzle</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">саламс (ёроплан)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">hijack</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">салтомс (илязо наксадо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">cure</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">самс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">arrive</t> <t pos="V">come</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">самс ве мельс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">agree</t> <t pos="V">compromise</t> <t pos="V">settle</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">самс ёжос</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">revive</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сасамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">overtake</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сатотомс (авань-тетянь пельде)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">inherit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сатстомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">reach</t> <t pos="V">sacrifice</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">свежалгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">refresh</t> <t pos="V">ventilate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">свержения</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">overthrow</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">седямс (пианинасо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">play</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">седямс аккомпанемент</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">accompany</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сезевемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">erupt</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сеземс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">explode</t> <t pos="V">part</t><t pos="V">rip</t> <t pos="V">tear</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сельгемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">spit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сельмс неемс а вечкемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">despise</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сельмс шнамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">flatter</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сельмтненень неемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">witness</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">серьгедемасо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">cheer</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">серьгедемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">cry</t> <t pos="V">shout</t> <t pos="V">yell</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сеставтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">moan</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сиведемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">rent</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сиведемс (бус</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">charter</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сиведемс (улипаро</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">lease</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сивемс vt. синдемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">break</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">сизевтемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">tire</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сиземс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">tire</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">симдемс (animals ракшат ведте)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">water</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">симемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">drink</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">синдемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">sever</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">скирямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">pinch</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">скокадемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">hop</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">следямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">observe</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">служамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">serve</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">снартнемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">attempt</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">совавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">admit</t> <t pos="V">enclose</t><t pos="V">endanger</t> <t pos="V">include</t> <t pos="V">insert</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">совавтомс визксчамас</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">humiliate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">совамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">enter</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">совамс (венчс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">embark</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">совамс (кинь юткс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">join</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">совамс пежетьс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">sin</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">совамс потс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">penetrate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">советовамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">recommend</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">содамга пачтямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">inform</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">содамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">guess</t> <t pos="V">identify</t><t pos="V">know</t> <t pos="V">realize</t> <t pos="V">recognize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">содомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">bind</t> <t pos="V">fasten</t><t pos="V">hitch</t> <t pos="V">tie</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">содомс керьмекс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">bundle</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сокамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">plow</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">солавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">dissolve</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">соламс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">dissolve</t> <t pos="V">melt</t> <t pos="V">thaw</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">соламс (коштс ведте)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">evaporate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">соламс (пексэ ярсамопель)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">digest</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сормсемс конянть</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">frown</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">сорновтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">shake</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сорномс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">shake</t> <t pos="V">shiver</t> <t pos="V">tremble</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сотямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">absorb</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">специализировамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">specialize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сравтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">deploy</t> <t pos="V">spread</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">срадомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">deploy</t> <t pos="V">disperse</t> <t pos="V">spread</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">срокось ютамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">expire</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">стакалгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">complicate</t> <t pos="V">impair</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">стамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">sew</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">страхувамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">insure</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">строямс одс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">rebuild</t> <t pos="V">reconstruct</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">стувтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">forget</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">стукамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">knock</t> <t pos="V">rattle</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">стявтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">erect</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">стявтомс кинь-бути кисэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">agitate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">стявтомс ёжопонат</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">terrify</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">стямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">cost</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">стямс карадокаршо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">clash</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сувтнемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">sift</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">судрямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">comb</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">судрямс щёткасо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">brush</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">судямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">condemn</t> <t pos="V">sue</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">суртямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">filter</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">сускомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">bite</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сустамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">sew</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сыргоземс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">awake</t> <t pos="V">wake</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сыргозтемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">arouse</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">сыргозтемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">wake</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сыредемс (ломанде)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">age</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сэредемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">hurt</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">сэредькс теемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">hurt</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сэскемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">win</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сэтьмелгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">calm</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сюдомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">curse</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сюконямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">bow</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сюлмавомс (киньгак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">contact</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сюлмамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">attach</t> <t pos="V">connect</t> <t pos="V">tie</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сявордомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">fail</t> <t pos="V">fall</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сялдомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">condemn</t> <t pos="V">criticize</t> <t pos="V">denounce</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сёвномс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">abuse</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сёвномс (киньгак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">scold</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сёлгомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">close</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сёлгомс сюлгамосо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">buckle</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сёмомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">shut</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сёрмадомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">write</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">сёрмадомс капшазь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">scribble</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сёрмадомс кинень-бути (лекарства)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">prescribe</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сёрмадомс одов</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">rewrite</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сёрмадомс спискас лем</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">register</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сёрмадстомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">sign</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сёрмадстомс пря (школав)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">enrol</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">сёрмалемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">list</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">таймазкавтнемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">baffle</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">талакавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">shock</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">талномс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">fidget</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тандавтнемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">terrorize</t> <t pos="V">threaten</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тандавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">frighten</t> <t pos="V">scare</t><t pos="V">startle</t> <t pos="V">terrify</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тапардамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">pack</t> <t pos="V">wrap</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">тапарямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">pack</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">таргамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">excavate</t> <t pos="V">pull</t> <t pos="V">unpack</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">таргамс ойме</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">inhale</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">таргамс оймекошт</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">breathe</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">таргоземс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">swell</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">таргсема шка</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">delay</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">таргсемс шка</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">hesitate</t> <t pos="V">procrastinate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">таркастонзо лисемс (эзне)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">dislocate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тарномс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">tremble</t> <t pos="V">vibrate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тарномс (кельмеде)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">shiver</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">таштамс уштомапель</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">refuel</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тевень коряс получамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">earn</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тевтемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">implement</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тевтненень парсте лисемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">succeed</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теевемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">become</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">build</t> <t pos="V">cause</t><t pos="V">construct</t> <t pos="V">create</t><t pos="V">do</t> <t pos="V">generate</t><t pos="V">make</t> <t pos="V">manufacture</t><t pos="V">perform</t> <t pos="V">produce</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс (-кс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">fake</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс (pain сэредькс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">inflict</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс (мезеяк)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">undertake</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс аздыкс (киде)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">ignore</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс анализ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">analyze</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс бартер</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">barter</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс вейсэнь тев</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">cooperate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс видекс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">straighten</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс гипотеза</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">assume</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс диагноз</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">diagnose</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">теемс доклад</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">report</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс зарядка</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">exercise</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс каракулят</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">scribble</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс кода кармавтозь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">obey</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс комуфляж</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">camouflage</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс конспект</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">summarize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс контроль</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">check</t> <t pos="V">inspect</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс копия</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">copy</t> <t pos="V">duplicate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс лагерь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">camp</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс ливтевкст</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">summarize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс лиядо ламо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">surpass</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс массаж</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">massage</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс одов</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">repeat</t> <t pos="V">revise</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс одс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">readjust</t> <t pos="V">reproduce</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс план</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">design</t> <t pos="V">plan</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс прават</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">license</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс предложения</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">offer</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс редакция</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">edit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс рейд</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">raid</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс реклама</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">advertise</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс содавиксэкс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">acquaint</t> <t pos="V">introduce</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс сэредькс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">ache</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс тату</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">tattoo</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс шантаж (someone кинь лангс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">blackmail</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">теемс-ладямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">organize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тезэнь) мельга</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">monitor</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">телевизор)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">broadcast</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тенстямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">sweep</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тердемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">attract</t> <t pos="V">invite</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тердемс пуромомо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">convene</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">терявтнемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">tempt</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">терявтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">test</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тетькемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">stretch</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тешкстамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">emphasize</t> <t pos="V">note</t> <t pos="V">remark</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тешкстамс (ракша)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">brand</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">тешкстамс покш чи</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">celebrate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тешкстамс тештень-тештень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">print</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">токамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">affect</t> <t pos="V">touch</t> <t pos="V">visit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">токамс (парализовазь)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">paralyze</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">токамс утюгсо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">iron</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">токшемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">touch</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">толковамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">define</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">томбамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">hurt</t> <t pos="V">injure</t> <t pos="V">wound</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тонавтнемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">learn</t> <t pos="V">research</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">тонавтнемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">study</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тонавтнемс мезес-бути</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">qualify</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тонавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">instruct</t> <t pos="V">tame</t> <t pos="V">teach</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тонавтомс (animal ракша)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">train</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тонавтомс (person ломань)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">train</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тонавтомс (поп)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">preach</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тонавтомс одов</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">retrain</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тонавтомс-кастомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">educate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тонадомс танстьс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">acquire</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">топавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">complete</t> <t pos="V">enforce</t> <t pos="V">fulfil</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">торцадемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">bump</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тохмадемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">shove</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тошкамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">whisper</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">травамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">intimidate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тресямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">shake</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">трямс-кастомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">rear</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">трёнкаемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">skip</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тувтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">overturn</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">туемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">bring</t> <t pos="V">leave</t><t pos="V">quit</t> <t pos="V">recede</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">туемс (костояк)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">depart</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">туемс ве таркасто лияв эрямо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">migrate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">туемс ланга</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">overflow</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">туемс служамсто (from косто)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">resign</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тулкадемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">poke</t> <t pos="V">push</t><t pos="V">shove</t> <t pos="V">urge</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тыжнэмс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">hiss</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">тюремс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">fight</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тёкадемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">hop</t> <t pos="V">jump</t> <t pos="V">leap</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">тёкаемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">bounce</t> <t pos="V">skip</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">увол-авол ютамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">stagger</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">удомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">sleep</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">уевтемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">float</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">уемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">float</t> <t pos="V">swim</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">уемс иневенчсэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">cruise</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">уемс каноэсэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">canoe</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">уксномс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">vomit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">укшномс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">swim</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">укшномс (венчсэ)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">navigate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">улемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">be</t> <t pos="V">exist</t> <t pos="V">own</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">улемс (кинь)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">belong</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">улемс азоркс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">possess</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">улемс васенцекс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">prosper</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">улемс должинэкс кинень-бути</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">owe</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">улемс достойной</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">deserve</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">улемс лишнойкс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">overrun</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">улемс медьсэ ваднезь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">attract</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">улемс мельнень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">wish</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">улемс неицякс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">witness</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">улемс пелькстыцянь ютксо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">mediate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">улемс покшокс (лангсо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">dominate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">улемс участникекс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">participate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ульмамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">angle</t> <t pos="V">fish</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">урномс (wolf верьгиз)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">howl</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">урьвакстомс (of a man)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">marry</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">урядомс аваньксчинть</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">decontaminate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">усковомс (саннэнь)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">sprain</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ускомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">haul</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ускомс (венчсэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">ship</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ускомс (масторга)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">drag</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ускомс масторсто</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">deport</t> <t pos="V">export</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">ускомс салава границань трокс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">smuggle</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">усксемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">transport</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">учомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">anticipate</t> <t pos="V">await</t><t pos="V">expect</t> <t pos="V">wait</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ушодомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">begin</t> <t pos="V">commence</t> <t pos="V">initiate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">фальсифицировамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">counterfeit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">фатямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">realize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">фатямс (мейс-)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">perceive</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">финансировамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">finance</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">хлыстяемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">whip</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">цападемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">grasp</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">целямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">aim</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">цензуровамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">censure</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">централизовамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">centralize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">цидярдомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">abide</t> <t pos="V">bear</t><t pos="V">endure</t> <t pos="V">withstand</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">цийнемс (чеерь)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">squeak</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">цитнемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">glisten</t> <t pos="V">shine</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">цихельдемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">giggle</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">цопадемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">grab</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">цяпамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">applaud</t> <t pos="V">clap</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чамдомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">clear</t> <t pos="V">empty</t><t pos="V">ravage</t> <t pos="V">vacate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чамдомс (ломанде)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">evacuate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чамордомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">limp</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чанстямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">bless</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чапаськадомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">sour</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чапомс-путомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">construct</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чарамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">rotate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чарькодевиксстэ ёвтамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">articulate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чарькодевтемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">clarify</t> <t pos="V">define</t><t pos="V">explain</t> <t pos="V">insinuate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чарькодевтемс (видьстэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">imply</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чарькодемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">appreciate</t> <t pos="V">apprehend</t><t pos="V">interpret</t> <t pos="V">perceive</t><t pos="V">realize</t> <t pos="V">understand</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чарькодемс аволь видестэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">misinterpret</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чачомс (эмежнень)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">yield</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чиемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">run</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чиемс сокссо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">ski</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чинэзэнзэ)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">restore</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чиремемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">recline</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">човамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">grind</t> <t pos="V">sharpen</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">човоргавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">agitate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">човорявомс (with something козоньгак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">interfere</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">човорявомс (лия масторонь тевс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">intervene</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">човорямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">blend</t> <t pos="V">mix</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">човорямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">stir</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чопавтнемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">submerge</t> <t pos="V">submerge</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чопавтомс (ведьс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">dive</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чополгадомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">darken</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чотнамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">imagine</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чочамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">obtain</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чочамс ярмак</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">profit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чувномс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">dig</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чувномс-витнемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">excavate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чудевтемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">drain</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чудемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">flow</t> <t pos="V">leak</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чумондомга ветямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">prosecute</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чумондомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">accuse</t> <t pos="V">incriminate</t><t pos="V">indict</t> <t pos="V">suspect</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">чумондомс (for something мезень кисэяк)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">blame</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">шалномс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">rattle</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">шаштомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">postpone</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">шаштомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">shift</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">шаштомс (мейлес)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">defer</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">шаштомс (шкань коряс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">adjourn</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">шаштомс икелев (частнэнь икелев)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">advance</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">шкамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">create</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">шлакномс пиледе пилес</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">gossip</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">шлямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">scrub</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">шлёпамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">pat</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">шнамосо ёвтамс (паро тевде)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">acknowledge</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">шнамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">glorify</t> <t pos="V">praise</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">шнамс (паро тевень кисэ)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">commend</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">шнамс пря</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">boast</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">шнамс пря (пек)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">brag</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">шождалгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="TV">simplify</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">штавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">expose</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">штамп путомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">cancel</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">штрафувамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">penalize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">штюпамс-капамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">search</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">шумбракстнемс (someone кинь мартояк)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">greet</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">шумордомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">complete</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ырнемс (at лангс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">growl</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">эензавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">freeze</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">эензамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">freeze</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">эждемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">turn on</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">экспортировамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">export</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">экшелгавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">cool</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">экшелявтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">bathe</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">экшелямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">bathe</t> <t pos="V">swim</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">энгамтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">appease</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">энялдомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">request</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">эртемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">bump</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">эрявомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">must</t> <t pos="V">need</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="TV">эрязкавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">accelerate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">эрязкавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">animate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">эрязкадомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">accelerate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">эрязкалемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">rush</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">эрязыявтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">stimulate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">эрямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">exist</t> <t pos="V">inhabit</t> <t pos="V">live</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">эрямс (somewhere косояк)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">reside</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">эрямс вадрясто-парсте</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">prosper</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">эрямс кинь коряскак кувать</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">survive</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">эрямс парсте</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">thrive</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">эряскалемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">hurry</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">эскельдемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">step</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">эстензэ саемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">adopt</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">эстензэкс саемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">adopt</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">эцемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">poke</t> <t pos="V">stuff</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">эцемс (ков а эряви)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">intrude</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">эцемс кинь юткс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">disrupt</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">эцемс ломанень кортамос</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">interrupt</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">юксемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">untie</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">юкстамс (сюлмо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">undo</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ютавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">interpret</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ютавтомс (money ярмак, time шка)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">spend</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ютавтомс (лия кельс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">translate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ютавтомс тевде кортамо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">negotiate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ютамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">function</t> <t pos="V">migrate</t> <t pos="V">walk</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ютамс вакска</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">avoid</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ютамс кие-бути мельга</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">pursue</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ютамс ниле пильге лангсо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">crawl</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ютамс од таркас</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">move</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ютамс пачка</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">penetrate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ютамс салава</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">sneak</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">явовтомс (оймесэ лиятнень эйстэ)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">alienate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">яволявтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">announce</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">явомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">allot</t> <t pos="V">detach</t><t pos="V">part</t> <t pos="V">separate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">явомс (a couple мирдть-нить)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">divorce</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">явомс (something мезеяк)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">divide</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">явомс (вейке лиятнень эйстэ)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">distinguish</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">явомс (ломанть лиятнень эйстэ киське тюсонь коряс)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">segregate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">явомс лиятнень эйстэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">deviate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">явомс мель (вейке тевнень)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">concentrate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">явомс тевстэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">bother</t> <t pos="V">disrupt</t><t pos="V">distract</t> <t pos="V">disturb</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">явшемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">circulate</t> <t pos="V">distribute</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">явшемс (with марто)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">share</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">явшемс (ярмак мезекскак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">allocate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">яжавтомс ведькевсэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">mill</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">яжамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">ravage</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">яжамс-тапамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">annihilate</t> <t pos="V">devastate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">якамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">go</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">якамс (вирьга-укшторга)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">wander</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">якамс (ломантнень) мельга покш чисэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">cater</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">якамс (мезень-бути кисэ)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">retrieve</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">якамс (школав)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">attend</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">якамс вирьга-паксява</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">hike</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">якамс ильтямо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">see off</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">якамс инжекс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">visit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">якамс кинь-бути мельга</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">attend</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">якстерьгадомс (виздемадо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">blush</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">янксемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">regret</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ярмак)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">beg</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ярсавомс (пек)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">overeat</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ярсамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">dine</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">яхоргавтомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">refine</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">яхоямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">wave</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёвардомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">rinse</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёвтамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">declare</t> <t pos="V">pronounce</t><t pos="V">say</t> <t pos="V">state</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёвтамс (весень марямга)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">notify</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёвтамс (кинень) паро мель</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">congratulate</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёвтамс берянь тевде</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">warn</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёвтамс весень марямга</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">publicize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёвтамс ломаннень: "паро сыть"</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">welcome</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёвтамс марямга</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">proclaim</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёвтамс мель</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">comment</t> <t pos="V">input</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёвтамс шкадо икелев</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">predict</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёвтнемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">tell</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёвтнемс (кинь-бути)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">describe</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёвтнемс превстэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">recite</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёжо марямс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">sympathize</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёзамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">rub</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёздамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">hit</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёзмолдомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">stir</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёзолдомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">rub</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёмавтомс (something мезеяк)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">lose</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёмавтомс ёжо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">faint</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV">ёмавтомс ёжо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="IV">pass out</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёматомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">disappear</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёнкс ловомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">approve</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёрамс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">equip</t> <t pos="V">prepare</t> <t pos="V">supply</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёрамс (товарсо)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">stock</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёрвалдомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">rinse</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёртовомс карадокаршо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">clash</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёртомс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="V">eject</t> <t pos="V">eliminate</t><t pos="V">throw</t> <t pos="V">toss</t> </tg> </mg> </e>
+<e> <lg> <l pos="V" val="IV,TV">ёртомс бомба</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V" val="">bomb</t> </tg> </mg> </e>
+<e> <lg> <l pos="V">ёртомс чувтсто</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="V">gamble</t> </tg> </mg> </e>
+</r>

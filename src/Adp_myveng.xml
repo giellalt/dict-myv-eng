@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+   You are free to copy, distribute and adapt the work, as long as you always give
+   proper attribution using the attribution text below.
+   For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref> <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+   This is NOT a fully styled and published dictionary.
+   As such it can and will contain unfinished entries, unpublished entries, 
+   entries with objectionable translations, etc. If you find any errors 
+   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
+
+
+
+<e> <lg> <l pos="Suf">-в</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">to</t> </tg> </mg> </e>
+<e> <lg> <l pos="Suf">-втеме</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">minus</t> </tg> </mg> </e>
+<e> <lg> <l pos="Suf">-втомо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">without</t> </tg> </mg> </e>
+<e> <lg> <l pos="Suf">-до</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">about</t> </tg> </mg> </e>
+<e> <lg> <l pos="Suf">-зо/-зэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">per</t> </tg> </mg> </e>
+<e> <lg> <l pos="Suf">-кс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">as</t> </tg> </mg> </e>
+<e> <lg> <l pos="Suf">-нень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pr">for</t> <t pos="Pr">to</t> </tg> </mg> </e>
+<e> <lg> <l pos="Suf">-нень кандовиця</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">relating</t> </tg> </mg> </e>
+<e> <lg> <l pos="Suf">-нь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">of</t> </tg> </mg> </e>
+<e> <lg> <l pos="Suf">-с</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pr">for</t> <t pos="Pr">into</t> <t pos="Pr">until</t> </tg> </mg> </e>
+<e> <lg> <l pos="Suf">-с молемс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">until</t> </tg> </mg> </e>
+<e> <lg> <l pos="Suf">-с самс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">until</t> </tg> </mg> </e>
+<e> <lg> <l pos="Suf">-со/-сэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">in</t> <t pos="Pr">at</t> </tg> </mg> </e>
+<e> <lg> <l pos="Suf">-сто/-стэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">from</t> </tg> </mg> </e>
+<e> <lg> <l pos="Suf">-сто/-стэ саезь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">since</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">икеле</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">before</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">пачк</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pr">through</t> <t pos="Pr">throughout</t> </tg> </mg> </e>
+
+<e> <lg> <l pos="Po">вакска</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">by</t><t pos="Pr">past</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">алга</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">underneath</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">ало</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pr">below</t> <t pos="Pr">beneath</t><t pos="Pr">under</t> <t pos="Pr">underneath</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">алов</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pr">below</t> <t pos="Pr">beneath</t> <t pos="Pr">underneath</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">башка</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pr">besides</t> <t pos="Pr">except</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">вакссо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">beside</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">вейсэ + марто</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">including</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">велькска</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pr">above</t> <t pos="Pr">over</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">вельксс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">above</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">велькссэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pr">above</t> <t pos="Pr">over</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">верев</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">up</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">видьс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pr">as far as</t> <t pos="Pr">until</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">кадык</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">despite</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">карадо каршо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">opposite</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">каршо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pr">across</t> <t pos="Pr">against</t> <t pos="Pr">versus</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">кисэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pr">after</t> <t pos="Pr">for</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">кода</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">as</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">кондямо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">like</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">коряс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pr">according  to</t> <t pos="Pr">concerning</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">ланга</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pr">about</t> <t pos="Pr">concerning</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">лангс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pr">at</t> <t pos="Pr">upon</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">лангс ванозь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">considering</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">лангсо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">on</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">малава</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">by</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">маласо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pr">around</t> <t pos="Pr">by</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">марто</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">along</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">мельга</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pr">after</t> <t pos="Pr">for</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">пелев</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">toward</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">перька</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pr">about</t> <t pos="Pr">around</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">пингстэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">during</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">плюс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">plus</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">потс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pr">inside</t> <t pos="Pr">into</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">потсо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">inside</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">прок</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">as</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">с</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">in</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">таркас</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pr">instead</t> <t pos="Pr">versus</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">томбале</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pr">beyond</t> <t pos="Pr">without</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">томбалев</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">beyond</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">трокс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">across</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">туртов</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">for</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">удало</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">behind</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">учозь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">pending</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">ушов</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">outside</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">ушова</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">outside</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">ушосо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">outside</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">эземс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">instead</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">юткова</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">between</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">юткс</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">between</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">ютксо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pr">among</t> <t pos="Pr">between</t> </tg> </mg> </e>
+<e> <lg> <l pos="Po">ёнов</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pr">toward</t> </tg> </mg> </e>
+</r>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r id="myveng" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+   You are free to copy, distribute and adapt the work, as long as you always give
+   proper attribution using the attribution text below.
+   For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref> <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+   This is NOT a fully styled and published dictionary.
+   As such it can and will contain unfinished entries, unpublished entries, 
+   entries with objectionable translations, etc. If you find any errors 
+   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
+<e> <lg> <l pos="Num">бильярд</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">billiard</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">ве</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">one</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">вейке</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">one</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">вейксэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">nine</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">вейксэньгемень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">ninety</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">вете</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">five</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">ветенькемень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">fifty</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">кавксо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">eight</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">кавксоньгемень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">eighty</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">кавто</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">two</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">кевейкее</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">eleven</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">кеветее</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">fifteen</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">кемвейксэе</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">nineteen</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">кемгавксово</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">eighteen</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">кемголмово</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">thirteen</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">кемготово</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">sixteen</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">кемень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">ten</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">кемзисемге</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">seventeen</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">кемкавтово</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">twelve</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">кемнилее</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">fourteen</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">кодгемень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">sixty</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">колмо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">three</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">колоньгемень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">thirty</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">комсь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">twenty</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">кото</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">six</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">миллиард</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">billion</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">миллион</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">million</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">ниле</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">four</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">ниленьгемень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">forty</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">сизгемень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">seventy</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">сисем</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">seven</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">сядо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">hundred</t> </tg> </mg> </e>
+<e> <lg> <l pos="Num">тёжа</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Num">thousand</t> </tg> </mg> </e>
+</r>

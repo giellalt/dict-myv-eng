@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r id="myveng" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+   You are free to copy, distribute and adapt the work, as long as you always give
+   proper attribution using the attribution text below.
+   For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref> <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+   This is NOT a fully styled and published dictionary.
+   As such it can and will contain unfinished entries, unpublished entries, 
+   entries with objectionable translations, etc. If you find any errors 
+   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
+<e> <lg> <l pos="Pron"> мон</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">I</t> </tg> </mg> </e>
+
+
+
+
+
+
+
+
+<e> <lg> <l pos="Pron">вейке-вейке</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">each other</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">кавоненек</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">both</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">кавоненк</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">both</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">кавонест</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">both</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">ки</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">who</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">кие</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">who</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">кие илязо (+теемавал)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">whoever</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">кие мелеть</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">anybody</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">кие-бути</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">somebody</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">кинень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">whom</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">кинь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pron">whom</t> <t pos="Pron">whose</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">кияк</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pron">anybody</t> <t pos="Pron">anyone</t><t pos="Pron">nobody</t> <t pos="Pron">somebody</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">кона</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">who</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">конанень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">whom</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">конань</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">whom</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">конаськак (кавонест эйстэ)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">neither</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">мезе</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">what</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">мезе илязо (+теемавал)…</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">whatever</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">мезе понгсь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">anything</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">мезе-бути</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">something</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">мезеяк</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pron">anything</t> <t pos="Pron">something</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">минь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">we</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">монень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">me</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">монь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pron">me</t> <t pos="Pron">mine</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">нетне</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">these</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">сон</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">it</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">сон (авань сыме)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">she</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">сон (грамматикань цёрасымень)</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">he</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">сонензэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pron">her</t> <t pos="Pron">him</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">сонзэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pron">her</t> <t pos="Pron">his</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">сынст</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pron">their</t> <t pos="Pron">them</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">сынь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">they</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">та-кие</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">somebody</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">та-мезе</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">something</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">тенек</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">us</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">тензэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Pron">her</t> <t pos="Pron">him</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">тень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">me</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">эрьвась</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">everything</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">эрьватась</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">everybody</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">эсь прянок</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">ourselves</t> </tg> </mg> </e>
+<e> <lg> <l pos="Pron">эсь пряст</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Pron">themselves</t> </tg> </mg> </e>
+</r>

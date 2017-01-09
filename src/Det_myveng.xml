@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r id="myveng" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+   You are free to copy, distribute and adapt the work, as long as you always give
+   proper attribution using the attribution text below.
+   For the full license text, see the link above.</lic> <ref>Work by AKU, Kone foundation, Giellatekno at UiT and members of the language communities. 
+   Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref> <sourcenote>THIS TEXT IS THE ORIGINAL SOURCE CODE. 
+   This is NOT a fully styled and published dictionary.
+   As such it can and will contain unfinished entries, unpublished entries, 
+   entries with objectionable translations, etc. If you find any errors 
+   or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.</sourcenote> </lics>
+
+<e> <lg> <l pos="Art">-ось/-эсь/-есь/-сь</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Det">the</t> </tg> </mg> </e>
+<e> <lg> <l pos="Art">-тне/-тнэ</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Det">the</t> </tg> </mg> </e>
+<e> <lg> <l pos="">аволь определённой артикл</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Det">a</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">васенце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Det">first</t> <t pos="Det">initial</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">васень</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Det">first</t> <t pos="Det">initial</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">вейксэце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Det">ninth</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">ветееце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Det">fifth</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">кавксоце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Det">eighth</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">кеменце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Det">tenth</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">колмоце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Det">third</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">котоце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Det">sixth</t> </tg> </mg> </e>
+<e> <lg> <l pos="Qnt">ламо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Det">a lot of</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">малаце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Det">next</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">меельце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Det">last</t> <t pos="Det">latest</t> <t pos="Det">ultimate</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">мельга молиця</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Det">next</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">нилеце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Det">fourth</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">омбо</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Det">other</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">омбоце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"><t pos="Det">following</t> <t pos="Det">second</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">остатка</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Det">ultimate</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">седе мейле</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Det">following</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">сисемеце</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Det">seventh</t> </tg> </mg> </e>
+<e> <lg> <l pos="Det">тона</l> <stg> <st/> </stg> </lg> <mg> <tg xml:lang="eng"> <t pos="Det">other</t> </tg> </mg> </e>
+</r>
